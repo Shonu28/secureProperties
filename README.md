@@ -1,0 +1,2 @@
+# secureProperties
+sample
